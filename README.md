@@ -1,4 +1,6 @@
 # apnacollege-demo
 This is my first Git Repository
+<br>
 Author-Malik Muhammad Awan
-Reason - Learning git and github
+<br> 
+<bold>Reason - Learning git and github</bold>
